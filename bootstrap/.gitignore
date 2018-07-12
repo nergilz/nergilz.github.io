@@ -2,6 +2,7 @@
 _gh_pages
 _site
 _config.yml
+bootstrap/index.html
 
 # Ignore ruby files
 .ruby-version
