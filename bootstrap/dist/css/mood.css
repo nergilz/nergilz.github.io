@@ -8,11 +8,17 @@ body {
 
 html, body {
     height: 100%;
-    background-color: #00FFFF;
+    background-color: #5F9EA0;
 }
 
 span {
     font-family: 'Pacifico', cursive;
     font-size: 36px;
     color: #FF00FF;
+}
+
+h2, h3 {
+    font-family: 'Monoton', cursive;
+    font-size: 36px;
+    color: #F08080;   
 }
